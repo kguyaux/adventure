@@ -1,0 +1,6 @@
+main
+location.o
+object.o
+misc.o
+inventory.o
+*.swp
